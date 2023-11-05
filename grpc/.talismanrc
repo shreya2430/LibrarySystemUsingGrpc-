@@ -1,0 +1,36 @@
+fileignoreconfig:
+- filename: grpc/.idea/sonarlint/issuestore/index.pb
+  checksum: 540657862fa3a9432bf2f80323eaa9f430c9579cc1fc165e586dd49758ca61d8
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/rpc/context/attribute_context.proto
+  checksum: 9c4e26b41093ec19a27150dfe030fe081e3765cddb2d776d9af8c70d0764e190
+- filename: grpc/.idea/sonarlint/securityhotspotstore/index.pb
+  checksum: 9743e1608a2cec0d83abcc8eb2e54194a82018a347027150679f3a6fabe50b95
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/client.proto
+  checksum: d94f791ab4fc195fe63e0861823b9a4007daa30cba1757294c456c54d2251d44
+- filename: grpc/.idea/uiDesigner.xml
+  checksum: 3d45df9b60b649fb3c283aa5e57c83acad282d1dbd704e5316251008d631dd03
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/routing.proto
+  checksum: 78183b007a1f1f19b8692495fb6d93c6f75437624a48bd08be595a9a94aa5d35
+- filename: grpc/target/protoc-dependencies/54d037798f982e52d93619d0adadf726/google/protobuf/descriptor.proto
+  checksum: a3efab8b46c6510df1cbe149b6b0e933ff41eb6a02abc1ac02fd1f20e343644d
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/quota.proto
+  checksum: bb2e9e6e92e65879e8c5ede0723ba2f7c989941f6f433c7b9ab1e31546a748e7
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/billing.proto
+  checksum: 1cfcf924379948137c598dad1eefc9eec8abc3f2c26c7a9a2dccf0d7b7662eef
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/config_change.proto
+  checksum: 334e5c6a4659de640930d0fe702726b767e4d6e56ad8d8f93fbeef8251aa68d8
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/logging.proto
+  checksum: dbf4bd25a3d3214cd04bf52f34ca57e88a4b34d97c7f343aa5e9929b1d2af448
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/monitoring.proto
+  checksum: 68da748c591c892cc1a7fc3874fa1eef29e299e228512888f165561b62446eaa
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/log.proto
+  checksum: 4f91bc5062a5c78bb1711cfc15b6532719531f7129e323d93fa760d57dcf5377
+- filename: grpc/target/protoc-dependencies/d44635240404ba68c8794ea4f0e356ea/google/api/error_reason.proto
+  checksum: 316e732c2151b1c11a2aa42565c14399b2b8d15594e71482b8316117b412a3f7
+- filename: grpc/.idea/sonarlint/securityhotspotstore/index.pb
+  checksum: 9743e1608a2cec0d83abcc8eb2e54194a82018a347027150679f3a6fabe50b95
+- filename: grpc/.idea/sonarlint/issuestore/index.pb
+  checksum: 540657862fa3a9432bf2f80323eaa9f430c9579cc1fc165e586dd49758ca61d8
+- filename: grpc/.idea/uiDesigner.xml
+  checksum: 3d45df9b60b649fb3c283aa5e57c83acad282d1dbd704e5316251008d631dd03
+version: ""
